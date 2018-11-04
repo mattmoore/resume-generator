@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "firstName": "Matt",
+    "lastName": "Moore",
+    "address": {
+      "street": "123 Anywhere Street",
+      "city": "Mount Prospect",
+      "state": "IL",
+      "postalCode": "90001"
+    },
+    "skills": [
+      { "name": "Ruby" },
+      { "name": "Rails" },
+      { "name": "PostgreSQL" }
+    ],
+    "employment_history": [
+      {
+        "title": "Software Engineer"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "firstName": "John",
+    "lastName": "Doe",
+    "address": {
+      "street": "123 Anywhere Street",
+      "city": "Milwaukee",
+      "state": "WI",
+      "postalCode": "53201"
+    },
+    "skills": [
+      { "name": "Product Design" },
+      { "name": "UX" },
+      { "name": "Market Research" }
+    ],
+    "employment_history": [
+      {
+        "title": "Product Manager"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "address": {
+      "street": "123 Anywhere Street",
+      "city": "Traverse City",
+      "state": "MI",
+      "postalCode": "49684"
+    },
+    "skills": [
+      { "name": "Leadership" },
+      { "name": "Coaching" },
+      { "name": "Mentoring" }
+    ],
+    "employment_history": [
+      {
+        "title": "Engineering Manager"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "firstName": "Allison",
+    "lastName": "Monroe",
+    "address": {
+      "street": "123 Anywhere Street",
+      "city": "Chicago",
+      "state": "IL",
+      "postalCode": "90001"
+    },
+    "skills": [
+      { "name": "Python" },
+      { "name": "Java" },
+      { "name": "PostgreSQL" }
+    ],
+    "employment_history": [
+      {
+        "title": "Software Engineer"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "firstName": "James",
+    "lastName": "Kirk",
+    "address": {
+      "street": "123 Anywhere Street",
+      "city": "Chicago",
+      "state": "IL",
+      "postalCode": "53201"
+    },
+    "skills": [
+      { "name": "Product Design" },
+      { "name": "UX" },
+      { "name": "Market Research" },
+      { "name": "Communication" }
+    ],
+    "employment_history": [
+      {
+        "title": "Product Manager"
+      }
+    ]
+  }
+]
